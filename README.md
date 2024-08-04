@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # awn_project
 
 ## Project setup
@@ -34,3 +35,6 @@ npm run lint
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 "# awn_project"
+=======
+
+>>>>>>> d624940db8bc023c32cf5c4db616d814f78cb784
